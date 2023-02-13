@@ -1,11 +1,11 @@
 # High-Performance-Computing-Project-EECE5640
 This is the final project of Northeastern University EECE5640 (High Performance Computing). The project is a self-designed project. Please firstly read our project proposal and report.
 
-This project utilize PyTorch and TensorFlow to evaluate the performance of Nvidia©️ Tesla©️ P100 and Nvidia©️ Tesla©️ K80 GPU on Northeastern's Dicovery Cluster. Northeastern's Discovery Cluster is a high performance computing cluster which is located in MGHPCC. For more information, please visit:https://rc.northeastern.edu 
+This project utilize PyTorch and TensorFlow as benchmark to evaluate the performance of Nvidia©️ Tesla©️ P100 and Nvidia©️ Tesla©️ K80 GPU on Northeastern's Dicovery Cluster. Northeastern's Discovery Cluster is a high performance computing cluster which is located in MGHPCC. For more information, please visit:https://rc.northeastern.edu 
 
 此项目为美国东北大学EECE5640高性能计算课程的期末项目。此项目由三人团队自行设计及完成，请首先阅读proposal和report来熟悉此项目。
 
-该项目使用PyTorch和TensorFlow评估英伟达特斯拉P100和英伟达特斯拉K80 GPU的性能，运行于Northeastern's Discovery 集群。Northeastern's Discovery 集群是位于MGHPCC的高性能计算服务器集群。更多信息请访问：https://rc.northeastern.edu
+该项目使用PyTorch和TensorFlow作为基准测试评估英伟达特斯拉P100和英伟达特斯拉K80 GPU的性能，运行于Northeastern's Discovery 集群。Northeastern's Discovery 集群是位于MGHPCC的高性能计算服务器集群。更多信息请访问：https://rc.northeastern.edu
 
 
 # Project Content
